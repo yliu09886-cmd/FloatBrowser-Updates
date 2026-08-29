@@ -281,4 +281,4 @@ E290EB304BE13EFCE86CDB4C2956D3FAE2658C9AB75B13FFFB81A466673B4FB8
 
 如果你觉得悬浮浏览器不错，欢迎点个 ⭐ Star 支持一下，也可以通过下方二维码支持作者：
 
-<img src="图片/support-author.jpg" alt="支持作者二维码" width="360">
+<img src="images/1.jpg" alt="支持作者二维码" width="360">
